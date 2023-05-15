@@ -1,0 +1,16 @@
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\bin\Release\Q8-2048.exe.config
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\bin\Release\Q8-2048.exe
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\bin\Release\Q8-2048.pdb
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\Q8-2048.csproj.AssemblyReference.cache
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\MainWindow.g.cs
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\App.g.cs
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\Q8-2048_MarkupCompile.cache
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\Q8-2048_MarkupCompile.lref
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\App.baml
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\MainWindow.baml
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\Q8-2048.g.resources
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\Q8_2048.Properties.Resources.resources
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\Q8-2048.csproj.GenerateResource.cache
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\Q8-2048.csproj.CoreCompileInputs.cache
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\Q8-2048.exe
+C:\Users\pytho\source\repos\Q8-2048\Q8-2048\obj\Release\Q8-2048.pdb
